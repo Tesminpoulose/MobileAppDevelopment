@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">TesminePoulose_COMP304Sec001_Lab2_Ex1</string>
+    <string name="choose_your_genre">Choose from Options</string>
+    <string name="mode">Payment options available</string>
+    <string name="credit">Credit Card</string>
+    <string name="debit">Debit Card</string>
+    <string name="cash">Cash</string>
+    <string name="question1">Your Place of Birth</string>
+    <string name="question2">Your Mother Tongue</string>
+    <string name="question3">Your Favourite Sport</string>
+
+
+    <!--
+This string is used for square devices and overridden by hello_world in
+values-round/strings.xml for round devices.
+-->
+    <string name="Rock">Rock</string>
+    <string name="Jazz">Jazz</string>
+    <string name="Pop">Pop</string>
+    <string name="Classical">Classical</string>
+    <string name="Hip_hop">Hiphop</string>
+    <!--<string name="More">More</string> -->
+    <string name="thank_you">Thank you!!</string>
+    <string name="select_songs">Select Songs:</string>
+    <string name="song_1">Song 1</string>
+    <string name="song_2">Song 2</string>
+    <string name="song_3">Song 3</string>
+    <string name="expiry_date_mm_yy">Expiry Date MM/YY</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_your_answer">Enter Your Answer</string>
+    <string name="home_page">Home Page</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string-array name="available_rock1">
+        <item>Its a Long Way to the Top (If You Wanna Rock N Roll)</item>
+        <item>AC/DC</item>
+        <item>25 CAD </item>
+    </string-array>
+    <string-array name="available_rock2">
+        <item>Everlong</item>
+        <item>Foo Fighters</item>
+        <item>20 CAD </item>
+    </string-array>
+    <string-array name="available_rock3">
+        <item>Smoke On The Water</item>
+        <item>Six Feet Under</item>
+        <item>15 CAD</item>
+    </string-array>
+
+    <string-array name="available_pop1">
+        <item>Hips Dont Lie (feat Wyclef Jean)</item>
+        <item>Shakira</item>
+        <item>25 CAD </item>
+    </string-array>
+    <string-array name="available_pop2">
+        <item>Waka Waka</item>
+        <item>Shakira</item>
+        <item>18 CAD </item>
+    </string-array>
+    <string-array name="available_pop3">
+        <item>Successful</item>
+        <item>Drake</item>
+        <item>20 CAD</item>
+    </string-array>
+
+
+    <string-array name="available_jazz1">
+        <item>No Ordinary Love</item>
+        <item>Chris Botti</item>
+        <item>21 CAD </item>
+    </string-array>
+    <string-array name="available_jazz2">
+        <item>Save My Soul</item>
+        <item>Big Bad Voodoo Daddy</item>
+        <item>19 CAD </item>
+    </string-array>
+    <string-array name="available_jazz3">
+        <item>Soft Rain</item>
+        <item> Paul Hardcastle</item>
+        <item>24 CAD</item>
+    </string-array>
+
+    <string-array name="available_hiphop1">
+        <item>New Orleans Is Sinking</item>
+        <item>The Tragically Hip</item>
+        <item>20 CAD </item>
+    </string-array>
+    <string-array name="available_hiphop2">
+        <item>Cordelia</item>
+        <item>The Tragically Hip</item>
+        <item>12 CAD </item>
+    </string-array>
+    <string-array name="available_hiphop3">
+        <item>Overcome</item>
+        <item>Gregory Hernandez</item>
+        <item>20 CAD</item>
+    </string-array>
+
+    <string-array name="available_classical3">
+        <item>A Thousand Years</item>
+        <item>The Piano Guys</item>
+        <item>15 CAD</item>
+    </string-array>
+    <string-array name="available_classical2">
+        <item>Appalachian Spring</item>
+        <item>New York Philharmonic</item>
+        <item>16 CAD</item>
+    </string-array>
+    <string-array name="available_classical1">
+        <item>Married Life</item>
+        <item>Michael Giacchino</item>
+        <item>19 CAD</item>
+    </string-array>
+</resources>
